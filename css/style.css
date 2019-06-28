@@ -1,8 +1,5 @@
 h1 {
-color: orange;	
-	
-	
-	
+	color: orange;
 }
 
 
@@ -22,7 +19,7 @@ color: orange;
 
 .header {
 	font-size: 120px;
-	color: Orange;
+	color: orange;
 	background-image:	url("https://pbs.twimg.com/profile_images/1062268648159698944/HcgEc7Kh_400x400.jpg");
 	font-family: Comic Sans ms;
 }
@@ -40,7 +37,10 @@ p {
 	padding: 30px;
 }
 
-
+ol {
+	
+	color: green;
+}
 
 
 
