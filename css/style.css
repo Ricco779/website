@@ -1,0 +1,73 @@
+
+
+
+
+
+.footer {
+	font-size: 240px;
+	color: Orange;
+	font-family: Comic sans ms;
+	background-image:	url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3kSoDH_zOVodL_xAdNacww2iGWo15OSLpPEqL8FanG5ADZQa");
+	}
+
+
+
+
+
+
+.header {
+	font-size: 120px;
+	color: Orange;
+	background-image:	url("https://pbs.twimg.com/profile_images/1062268648159698944/HcgEc7Kh_400x400.jpg");
+	font-family: Comic Sans ms;
+}
+
+
+body {
+
+background-image: url("https://media.giphy.com/media/3oz8xJEqVd9MQ1enBe/giphy.gif")
+}
+
+p {
+	color:yellow;
+	font-size: 17px;
+	border: 1px solid orange;
+	padding: 30px;
+}
+
+
+
+
+
+#navbar ul { 
+margin: 0; 
+padding: 5px; 
+list-style-type: none; 
+text-align: center; 
+background-color: #000; 
+} 
+
+#navbar ul li { 
+display: inline; 
+} 
+
+#navbar ul li a { 
+text-decoration: none; 
+padding: .2em 1em; 
+color: #fff; 
+background-color: #000; 
+} 
+
+#navbar ul li a:hover { 
+color: #000; 
+background-color: #fff; 
+}
+
+
+
+
+
+
+
+
+
